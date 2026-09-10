@@ -1,4 +1,4 @@
-const CHECKOUT_URL = "#";
+const CHECKOUT_URL = "https://pay.hotmart.com/S107542007Y";
 
 document.querySelectorAll("[data-checkout]").forEach((button) => {
   button.addEventListener("click", (event) => {
